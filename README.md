@@ -18,10 +18,7 @@ Pygame
 To install Pygame:
                   pip install pygame
 
- ▶️ How to Run
-Clone the repository:
-              git clone https://github.com/YOUR_USERNAME/snake-game.git
-              cd snake-game
+ 
 
 🎮 Controls
 ⬅️ Left Arrow — Move Left
